@@ -1,4 +1,4 @@
-#Python-Virus-Example
+# Python-Virus-Example
 
 This is a class assignment from MIT 6.00.2x
 
@@ -11,4 +11,8 @@ Note that it might take repl.it around 6 seconds to process the simulation.
 
 Final result should look like this:
 
+![Resulting Figure](/figure.png)
+
 ResistantVirus is the total count of viruses that are resistant to the drug 'guttagonol'
+
+
